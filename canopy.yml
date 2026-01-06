@@ -1,6 +1,6 @@
 collection:
   - https://api.dc.library.northwestern.edu/api/v2/collections/7ac5769f-a1d9-4227-a350-bf8bd8b1cddc?as=iiif
 theme:
-  appearance: light
-  accentColor: gray
+  appearance: dark
+  accentColor: crimson
   grayColor: gray
