@@ -1,7 +1,7 @@
 /* Northwestern Brand */
 /* https://www.northwestern.edu/brand/visual-identity/color-palettes/ */
  
-@layer properties {
+@layer theme {
   :root,
   :host {
     /* Northwestern Purple */
